@@ -2,6 +2,7 @@
 [![deps][deps]][deps-url]
 [![test][test]][test-url]
 [![coverage][cover]][cover-url]
+[![quality][quality]][quality-url]
 [![chat][chat]][chat-url]
 
 <div align="center">
@@ -121,3 +122,6 @@ SOFTWARE.
 
 [cover]: https://coveralls.io/repos/github/webpack/html-loader/badge.svg?branch=master
 [cover-url]: https://coveralls.io/github/webpack/html-loader?branch=master
+
+[quality]: https://www.bithound.io/github/d3viant0ne/project-template-poc/badges/score.svg
+[quality-url]: https://www.bithound.io/github/d3viant0ne/project-template-poc
